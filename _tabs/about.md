@@ -1,10 +1,3 @@
-<<<<<<< HEAD
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 
 PAULINE BOURMEAU
 
@@ -60,6 +53,4 @@ Is the founder of [Cubessa](www.cubessa.io). Consultancy in threat intelligence 
 - Workshops IoT
 - ORCRIme Online Resources for Crime Reporting and Investigation, a curated list of resources reporting criminal activity.
 - Linguist contributor to Connecting Europe, CEF European project 2020-EU-IA-0260, joint threat analysis network
-=======
-This is the about page.
->>>>>>> b3ef3a4ec8cedc8543c6947597bc34de576ab3ac
+
